@@ -1,0 +1,9 @@
+[09-Nov-2022 12:59:13 UTC] PHP Warning:  require(/home/serverappsstagin/public_html/3346/findnseek/vendor/autoload.php): failed to open stream: No such file or directory in /home/serverappsstagin/public_html/3346/findnseek/artisan on line 18
+[09-Nov-2022 12:59:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/serverappsstagin/public_html/3346/findnseek/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/serverappsstagin/public_html/3346/findnseek/artisan on line 18
+[09-Mar-2023 10:08:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
+[09-Mar-2023 10:09:05 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
+[09-Mar-2023 10:09:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
+[09-Mar-2023 10:10:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
+[09-Mar-2023 10:12:56 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
+[09-Mar-2023 10:13:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
+[09-Mar-2023 10:13:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/findnseekjobs/public_html/webservices/vendor/symfony/string/Resources/functions.php on line 34
